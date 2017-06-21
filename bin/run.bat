@@ -1,0 +1,1 @@
+java -ea -classpath C:\classes;C:\Users\user\.m2\repository\org\apache\commons\commons-csv\1.5-SNAPSHOT\commons-csv-1.5-SNAPSHOT.jar;C:\Randoop\randoop-all-3.1.5.jar randoop.main.Main gentests --classlist=myclasses.txt --timelimit=20
